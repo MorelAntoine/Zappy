@@ -188,7 +188,7 @@ Artificial intelligence
 
 Finite-state machine in C++11 with C socket (TCP protocol)
 
-(see machine.png for more details)
+(see machines.png for more details)
 
 > Usage
 
